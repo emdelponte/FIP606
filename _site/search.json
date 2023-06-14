@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Bem-vindo!",
     "section": "",
-    "text": "Este website foi criado em Quarto Markdown para a disciplina FIP606 - Análise e visualização de dados em Fitopatologia. Contém o material das aulas organizados em tópicos."
+    "text": "Este website foi criado em Quarto Markdown para a disciplina FIP606 - Análise e visualização de dados em Fitopatologia. Contém o material das aulas organizados em tópicos.\nEste texto abaixo é novo e vai aparecer no site depois que eu fizer um commit pelo github desktop"
   },
   {
     "objectID": "aula3.html",
