@@ -1,0 +1,5 @@
+---
+title: "Bem-vindo!"
+---
+
+![](logo2.png){style="float: left; border-radius: 50%; padding-right: 30px" width="149"}Este website foi criado em Quarto Markdown para a disciplina FIP606 - Análise e visualização de dados em Fitopatologia. Contém o material das aulas organizados em tópicos.

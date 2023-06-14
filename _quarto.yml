@@ -1,0 +1,32 @@
+project:
+  type: website
+
+execute:
+  cache: true
+  freeze: auto 
+
+website:
+  title: "FIP 606"
+  navbar:
+    left:
+      - text: Básico do R
+        menu:
+          - href: aula2.qmd
+            text: Carregar pacotes
+          - href: aula3.qmd
+            text: Importação de dados
+      - text: Anova
+        menu: 
+          - href: index.qmd
+            text: Anova
+    right: 
+      - icon: github
+        href: https://github.com/
+format:
+  html:
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+editor: visual
+
